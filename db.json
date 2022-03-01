@@ -6,79 +6,79 @@
 		"lastName": "Amara",
 		"nickName": "Kader",
 		"mobile": "05 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Oumar",
 		"lastName": "Coulibaly",
 		"nickName": "ocoul",
 		"mobile": "07 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Date",
 		"lastName": "Kouame",
 		"nickName": "kdate",
 		"mobile": "08 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Kader",
 		"lastName": "Coulibaly",
 		"nickName": "kcoulibaly",
 		"mobile": "07 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Gael",
 		"lastName": "Toure",
 		"nickName": "gtoure",
 		"mobile": "01 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Eva",
 		"lastName": "Basse",
 		"nickName": "ebasse",
 		"mobile": "09 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Martial",
 		"lastName": "Ngnali",
 		"nickName": "mgnali",
 		"mobile": "22 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Arnaud",
 		"lastName": "Koffi",
 		"nickName": "akoffi",
 		"mobile": "04 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Kevin",
 		"lastName": "Yao",
 		"nickName": "kyao",
 		"mobile": "05 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	},
 	{
 		"firstName": "Ulrich",
 		"lastName": "GBO",
 		"nickName": "ugbo",
 		"mobile": "06 24 14 25 02",
-		"created": "2022-03-01",
-		"updated": "2022-03-01"
+		"created": null,
+		"updated": null
 	}]
 }
