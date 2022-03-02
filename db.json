@@ -14,8 +14,8 @@
 		"lastName": "Coulibaly",
 		"nickName": "ocoul",
 		"mobile": "07 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "3",
@@ -23,8 +23,8 @@
 		"lastName": "Kouame",
 		"nickName": "kdate",
 		"mobile": "08 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "4",
@@ -32,8 +32,8 @@
 		"lastName": "Coulibaly",
 		"nickName": "kcoulibaly",
 		"mobile": "07 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" :"5",
@@ -41,8 +41,8 @@
 		"lastName": "Toure",
 		"nickName": "gtoure",
 		"mobile": "01 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "6",
@@ -50,8 +50,8 @@
 		"lastName": "Basse",
 		"nickName": "ebasse",
 		"mobile": "09 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "7",
@@ -59,8 +59,8 @@
 		"lastName": "Ngnali",
 		"nickName": "mgnali",
 		"mobile": "22 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "8",
@@ -68,8 +68,8 @@
 		"lastName": "Koffi",
 		"nickName": "akoffi",
 		"mobile": "04 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "9",
@@ -77,8 +77,8 @@
 		"lastName": "Yao",
 		"nickName": "kyao",
 		"mobile": "05 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	},
 	{
 		"id" : "10",
@@ -86,7 +86,7 @@
 		"lastName": "GBO",
 		"nickName": "ugbo",
 		"mobile": "06 24 14 25 02",
-		"created": null,
-		"updated": null
+		"created": "2013-07-16T22:52:36Z",
+		"updated":"2013-07-16T22:52:36Z"
 	}]
 }
